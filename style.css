@@ -19,7 +19,8 @@
 .animated_rainbow_2 {
     font-size: 20px;
 	font-family: 'Architects Daughter', cursive;
-    -webkit-animation: animatedBackground_b 5s linear infinite alternate;
+	-webkit-animation: animatedBackground_b 5s linear infinite alternate;
+	animation: animatedBackground_b 5s linear infinite alternate;
 }
 
 @keyframes animatedBackground_b{
